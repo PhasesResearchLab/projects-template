@@ -30,12 +30,6 @@ This repository serves as an index of all software projects [<< Your Group Name 
   [![codecov](https://codecov.io/gh/pycalphad/pycalphad/branch/develop/graph/badge.svg?token=Fu7FJZeJu0)](https://codecov.io/gh/pycalphad/pycalphad)
   [![PyPI version](https://badge.fury.io/py/pycalphad.svg)](https://pypi.org/project/pycalphad)
 
-- 🟢 ✅ [**ESPEI**](https://github.com/PhasesResearchLab/ESPEI) - ([@bocklund](https://github.com/bocklund) now at [LLNL](https://www.llnl.gov/)) - **E**xtensible **S**elf-optimizing **P**hase **E**quilibria **I**nfrastructure, is a tool for creating CALPHAD databases and evaluating the uncertanity of CALPHAD models. The purpose of ESPEI is to be both a user tool for fitting state-of-the-art CALPHAD-type models and to be a research platform for developing methods for fitting and uncertainty quantification.
-
-  [![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/PhasesResearchLab/ESPEI?label=Last%20Commit)](https://github.com/PhasesResearchLab/ESPEI)
-  [![latest](https://img.shields.io/badge/Read%20The%20Docs-Latest-green)](https://espei.org/en/latest/)
-  [![PyPI version](https://badge.fury.io/py/espei.svg)](https://pypi.org/project/espei)
-
 - 🟢 ✅ [**pySIPFENN**](https://github.com/PhasesResearchLab/pySIPFENN) - py(**S**tructure-**I**nformed **P**rediction of **F**ormation **E**nergy using **N**eural **N**etworks) allows for easy prediction of formation energy out-of-the-box (🟢✅) and using small-dataset ML through transfer learning-based adjustment of models to new materials (🟠) and properties (🔴).
 
   [![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/PhasesResearchLab/pysipfenn?label=Last%20Commit)](https://github.com/PhasesResearchLab/pySIPFENN)
@@ -43,24 +37,10 @@ This repository serves as an index of all software projects [<< Your Group Name 
   [![codecov](https://codecov.io/gh/PhasesResearchLab/pySIPFENN/branch/main/graph/badge.svg?token=S2J0KR0WKQ)](https://codecov.io/gh/PhasesResearchLab/pySIPFENN)
   [![PyPI version](https://badge.fury.io/py/pysipfenn.svg)](https://pypi.org/project/pysipfenn)
 
-
-- 🟢 ✅ [**ULTERA-contribute**](https://github.com/PhasesResearchLab/ULTERA-contribute) - A template data-repository with growing number of embedded automations for alloy dataset handling, including data validation and abnormality detection. For now, hardcoded for ULTERA [(ultera.org)](https://ultera.org) contributions, but will soon be generalized.
-
-  [![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/PhasesResearchLab/ULTERA-contribute?label=Last%20Commit)](https://github.com/PhasesResearchLab/ULTERA-contribute)
-  ![GitHub forks](https://img.shields.io/github/forks/PhasesResearchLab/ULTERA-contribute)
-
-
 - 🟢 🔬 [**fmat**](https://github.com/HUISUN24/feasibility_map) - **F**easibility of **MAT**erials mapper is a CALPHAD-based tool helping avoid the formation of undesired phases and designing optimal composition pathway to join dissimilar materials. It provides a comprehensive understanding of the phase formation process during manufacturing processes through prediction of both equilibrium and non-equilibrium phases.
 
   [![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/HUISUN24/feasibility_map?label=Last%20Commit)](https://github.com/HUISUN24/feasibility_map)
   [![PyPI version](https://badge.fury.io/py/fmat.svg)](https://pypi.org/project/fmat)
-
-- 🟢 🔬 [**PyQAlloy**](https://github.com/PhasesResearchLab/PyQAlloy) - **P**ython toolset for **Q**uality of **Alloy**s data is aimed at curating large alloy datasets, and in particular error prone ones like HEA/MPEA/CCA ones, through multi-scope detection of a number of abnormal patterns prompting re-verification.
-
-  [![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/PhasesResearchLab/pysipfenn?label=Last%20Commit)](https://github.com/PhasesResearchLab/pyqalloy)
-  [![latest](https://img.shields.io/badge/Read%20The%20Docs-Latest-green)](https://pyqalloy.readthedocs.io/en/latest/)
-  [![codecov](https://codecov.io/gh/PhasesResearchLab/pyqalloy/branch/main/graph/badge.svg?token=S2J0KR0WKQ)](https://codecov.io/gh/PhasesResearchLab/pyqalloy)
-  [![PyPI version](https://badge.fury.io/py/pyqalloy.svg)](https://pypi.org/project/pyqalloy)
 
 - 🟢 🏗 [**heaGAN**](https://github.com/amkrajewski/cGAN_demo) - (codeveloped with [Reinhart Group](https://sites.psu.edu/reinhartgroup/people/)) - A demonstrator workflow for (1) training surrogate models for alloy design and (2) generating novel **h**igh **e**ntropy **a**lloys design with condditional **G**enerative **A**dversarial **N**etworks. You can run it in the cloud and download your trained models.
 
@@ -79,12 +59,6 @@ This repository serves as an index of all software projects [<< Your Group Name 
   [![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/amkrajewski/pqam-dparamhu2021?label=Last%20Commit)](https://github.com/amkrajewski/pqam-dparamhu2021)
   [![PyPI version](https://badge.fury.io/py/pqam-dparamhu2021.svg)](https://pypi.org/project/pqam-dparamhu2021)
 
-- 🤏 🟢 ✅ [**pqam_RMSADTandoc2023**](https://github.com/amkrajewski/pqam-dparamhu2021) - **P**y**QA**lloy-compatible **M**odel for alloy **R**oot **M**ean **S**quared **A**tomic **D**isplacement prediction is a lightweight fork of Christopher **Tandoc**'s **2023** literature model.
-
-  [![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/amkrajewski/pqam_RMSADTandoc2023?label=Last%20Commit)](https://github.com/amkrajewski/pqam_RMSADTandoc2023)
-  [![PyPI version](https://badge.fury.io/py/pqam_RMSADTandoc2023.svg)](https://pypi.org/project/pqam_RMSADTandoc2023)
-
-
 
 ### Staging 🟠
 
@@ -92,26 +66,12 @@ This repository serves as an index of all software projects [<< Your Group Name 
 
 - 🟠 🔬 [**nimplex**](https://github.com/amkrajewski/nimplex) - **NIM** sim**PLEX**  A small scientific library for providing uniform density random/grid sampling on N-dimensional simplex spaces.
 
-- 🟠 🔬 [**nimcso**](https://github.com/amkrajewski/nimcso) - **NIM** **C**omposition **S**pace **O**ptimization.
-
-- 🟠 🏗 [**pqam-dparamkrajewski2023**](https://github.com/amkrajewski/pqam-dparamkrajewski2023) - Transfer-learnig based prediction of intrinsic ductility of refractory alloys.
-
-- 🟠 🏗 [**Automation of thermodynamic modelling package**] The package aims to develop an automated workflow for CALPHAD-based thermodynamic modeling using four Python based open-source tools: PyCalphad for equilibrium thermodynamic calculations, ESPEI for automation of CALPHAD modeling, DFTTK for density functional theory (DFT) based first-principles calculations, and PySIPFENN for machine learning predictions of thermodynamic properties.
-
 - 🟠 🏗 [[**Third Generation Pure Element with Pycalphad and ESPEI**]](https://github.com/amr8004/PureElementPRL)
 Custom installations of pycalphad and ESPEI with common 3rd generation CALPHAD models as well as built in experimental Cp data fitting for model parameters.
 
 ### Internal 🔴
 
-- 🔴 ✅ **crystALL** - a set of tools to leverage speed of new SIPFENN featurizers and millions of structures in MPDD for prediction of **cryst**al structure applicable to **ALL** chemistries. Demonstrated, e.g., in: 
-
-  [![](https://img.shields.io/badge/DOI-10.1016%2Fj.actamat.2021.117448-blue)](https://doi.org/10.1016/j.actamat.2021.117448)
-  [![](https://img.shields.io/badge/DOI-10.1038%2Fs41598--021--03578--0-blue)](https://doi.org/10.1038/s41598-021-03578-0)
-  
-
 - 🔴 🔬 [**ULTERA**](https://github.com/PhasesResearchLab/ULTERA) - _Internal_ set of software tools developed within ULTERA projects, which will be individually released (e.g., PyQAlloy 🟢) or kept internal.
-
-- 🔴 🏗 **matmdl** - Tooling for gradient-free material model optimizations and interoperability between Abaqus finite elements and crystal plasticity subroutines.
 
 - 🔴 🏗 **PyZentropy** - Python toolset to implement the Zentropy approach ([doi.org/10.1007/s11669-022-00942-z](https://doi.org/10.1007/s11669-022-00942-z)) described in brief in [this news article](https://www.psu.edu/news/materials-research-institute/story/zentropy-and-art-creating-new-ferroelectric-materials/)
   
@@ -121,6 +81,7 @@ Custom installations of pycalphad and ESPEI with common 3rd generation CALPHAD m
 - 🟢 [**pymatgen**](https://github.com/amkrajewski/pymatgen): 
   - 2023: 1 enhancement and 1 bug fix, both to _pymatgen.**core**_ 
   - 2017: 1 enhancement to _pymatgen.**analysis**_ and 1 bug fix to _pymatgen.**io**_ 
+
 - 
 
 
@@ -164,6 +125,6 @@ Custom installations of pycalphad and ESPEI with common 3rd generation CALPHAD m
 
 - Please limit the description to 3 lines of text and up to 1 of badges.
 - Make sure to include links to source code if the project is open-source.
-- If you are an **active PRL member** you should have write access to this repository by default, and you are allowed to make changes directly.
-- If you are a **past PRL member**, you are welcome to contribute (1) the code you worked on while active to the appropriate category (please use `Legacy` if you no longer actively maintain it), as well as (2) code you created after leaving the group under `Alumni Work`. You can contribute by forking the repository and opening a pull request.
+- If you are an **active << Your Group Name >> member** you should have write access to this repository by default, and you are allowed to make changes directly.
+- If you are a **past << Your Group Name >> member**, you are welcome to contribute (1) the code you worked on while active to the appropriate category (please use `Legacy` if you no longer actively maintain it), as well as (2) code you created after leaving the group under `Alumni Work`. You can contribute by forking the repository and opening a pull request.
 - The easiest way to contribute is to open GitHub dev environment in your browser by simply clicking `.` key. It will work on any device with a keyboard (even an iPad!). With it, **you can make a simple contribution in under a minute without any knowledge of git!**. Simply (1) edit the text in the README file, which will open automatically, (2) click on the _Source Control_ icon on the left panel (third from top), (3) write a short message about what you did, and (4) click _Commit&Push_. Done!
