@@ -2,6 +2,8 @@
 
 Welcome to this neat template for quickly creating an index of all projects your group is working on! We figured out how to set everything up, so that **_you can efortlessly deploy it under 5min_** and have your group memebers (probably students) populate it with minimal knwoldege or effort. Should work well for class projects too!
 
+[See Our Page as a Demo](https://software.phaseslab.org/){: .btn }
+
 ## How to set up? (step-by-step)
 
 1. Follow big green `Use this template` and select `Create a new repository` **OR** fork it if you would like to contribute in the future.
@@ -13,6 +15,7 @@ Welcome to this neat template for quickly creating an index of all projects your
 1. **Wait around 45s, and boom, done! Your site should now be online!** You should see a tan dot (still working) or green checkmark (done) next to your last commit message. If not, you may need to enable workflows under `Actions`.
 1. To allow others to contribute directly, if you trust them, you should give them write access under `Settings > Collaborators`, or explain to them how to (1) fork a repository and (2) do pull requests.
 1. Once content is ready, remove this instructions by simply deleting everything above `# << Your Group Name >> Projects` header. You have a backup at the end of this document.
+1. To make further customizations, you can consult manual for [the underlying Jekyll theme](https://just-the-docs.com/), which as of Semtember 2023 is acively developed and maintained. 
 
 ## How to add yourself in under a minute?
 
