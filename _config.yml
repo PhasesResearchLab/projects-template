@@ -22,13 +22,13 @@ search:
   button: true
 
 nav_external_links:
-  - title: Group Homepage
+  - title: << Group Homepage >>
     url: https://phaseslab.org
     hide_icon: false
-  - title: Publications List
+  - title: << Publications List >>
     url: https://phaseslab.com/publications
     hide_icon: false
-  - title: Group News
+  - title: << Group News >>
     url: https://phaseslab.com/news
     hide_icon: false
   - title: << Some Extra Links >>
