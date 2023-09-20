@@ -10,7 +10,7 @@ Welcome to this neat template for quickly creating an index of all projects your
 1. In `README.md`, replace all `<< Your Group Name >>` fields with the actual name of your group. You can do it manually (there aren't many) or, if you are editing locally on Unix (Linux/Mac) or using GitHub Codespaces (Linux), you can open do it automatically with `sed -i 's/<< Your Group Name >>/SuperNiceGroup/g' README.MD`. Do the same thing with `<< Your Group URL >>`. 
 1. In `_congif.yml`, do the same as above. You should also change the `<< Your Title >>` that will show up in top-left corner and adjust other links as needed, so that they point to your resources like group homepage or class dashboard.
 1. **You are now ready to take it online!** Simply go to `Settings > Pages > Build and deployment`, click on the `Source`'s dropdown menu, select `Actions`, and don't do anything else here. Make _any_ change to the `README.md` and push it. 
-1. **Wait around 45s, and boom, done! Your site should now be online!**
+1. **Wait around 45s, and boom, done! Your site should now be online!** You should see a tan dot (still working) or green checkmark (done) next to your last commit message. If not, you may need to enable workflows under `Actions`.
 1. To allow others to contribute directly, if you trust them, you should give them write access under `Settings > Collaborators`, or explain to them how to (1) fork a repository and (2) do pull requests.
 1. Once content is ready, remove this instructions by simply deleting everything above `# << Your Group Name >> Projects` header. You have a backup at the end of this document.
 
