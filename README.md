@@ -1,6 +1,6 @@
 # Projects Template Manual
 
-Welcome to this neat template for quickly creating an index of all projects your group is working on! We figured out how to set everything up so that **_you can effortlessly deploy it in under 5 minutes** and have your group members (probably students) populate it with minimal knowledge or effort. It should work well for class projects, too!
+Welcome to this neat template for quickly creating an index of all projects your group is working on! We figured out how to set everything up so that **_you can effortlessly deploy it in under 5 minutes_** and have your group members (probably students) populate it with minimal knowledge or effort. It should work well for class projects, too!
 
 [See Our Page as a Demo](https://software.phaseslab.org/){: .btn }
 
